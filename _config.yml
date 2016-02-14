@@ -1,14 +1,26 @@
-layout_spectrum: 0
-typography_spectrum: 0.4656284
 color:
   saturation: 0.9542156
-  lightness: 0.1357013
   brandStrength: 1
+  rhythmicContrast: 0.3141608
   brandColors:
     - '#FFFFFF'
     - '#BD4487'
     - '#212121'
     - '#7F2880'
     - '#5C5C5C'
-  rhythmicContrast: 0.3141608
+  lightness: 0.1357013
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0
+typography_spectrum: 0.4656284
 name: gretchen
