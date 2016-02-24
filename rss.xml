@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[gretchen]]></title>
         <description><![CDATA[gretchen]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/gretchen/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 01:09:28 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 24 Feb 2016 12:32:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/gretchen/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Great business advice about the worst business advice. ]]></title>
+            <description><![CDATA[<article><h1>Great business advice about the worst business advice. </h1><p>Great business advice about the worst business advice.</p></article>]]></description>
+            <link>https://thegrid.ai/gretchen/great-business-advice-about-the-worst-business-advice/index.html</link>
+            <guid isPermaLink="false">d7a08961-c904-4b75-88d3-1544626a00bc</guid>
+            <pubDate>Wed, 24 Feb 2016 12:31:08 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[The Grid test. It's a beautiful day!]]></title>
-            <description><![CDATA[<article><h1>The Grid test. It's a beautiful day!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f2a2a994b0d97926a999f9c9b29cbfe77433c2bc.png"></article>]]></description>
+            <description><![CDATA[<article><h1>The Grid test. It's a beautiful day!</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/35bbcdb76ea0181e2b61515da6d607d1c0c202fa.png"></article>]]></description>
             <link>urn:uuid:b4143315-63a1-4266-940e-45e5796d9a64</link>
             <guid isPermaLink="false">099f18bc-dc8d-4b59-880f-a2024a1d4b16</guid>
             <pubDate>Mon, 15 Feb 2016 01:08:10 GMT</pubDate>
